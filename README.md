@@ -61,9 +61,6 @@
 
 
 <!-- Texto: Total de visitas ao perfil -->
-<div align="center">
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DaniCrazy&theme=jolly"/></p> 
-</div>
 
 
 <!-- Rodapé: Ondas rosas -->
